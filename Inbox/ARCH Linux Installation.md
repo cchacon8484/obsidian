@@ -13,4 +13,4 @@ Steps
  - [[Activate WI-FI in terminal (IWCTL)]]
  - [[Create password for user in Linux]]
  - [[Prepare the hard-drive for Linux]]
- - 
+ - [[Prepare LVM]] 

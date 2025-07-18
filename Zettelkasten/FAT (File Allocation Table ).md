@@ -1,0 +1,2 @@
+FAT is a file system architecture used since 1981 to today, is a really robust and well know file system, offers great performance but not at the same level of new implementations, but still relevant and used in different systems. Used mostly for EFI systems
+The fat 32 means that is in 32 bits.
