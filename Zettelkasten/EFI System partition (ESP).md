@@ -1,0 +1,1 @@
+EFI (**Extensible Firmware Interface**) Is a special partition to store the [[UEFI Firmware]] this partition is mandatory for the [[UEFI Firmware]]

@@ -1,0 +1,1 @@
+Is a tool used in [[Linux]] to virtualize partitions in the regular way.

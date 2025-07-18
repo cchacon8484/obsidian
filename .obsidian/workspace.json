@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "7dac2db9ce4456c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "274480c28b92840d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b98a7d2271f0155b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/format the partitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "format the partitions"
+            }
+          },
+          {
+            "id": "188db26f8c048389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/ARCH Linux Installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARCH Linux Installation"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8872cfc3033f7162",
+    "type": "split",
+    "children": [
+      {
+        "id": "340eaa419480f5d8",
+        "type": "tabs",
+        "dimension": 75.53083923154702,
+        "children": [
+          {
+            "id": "d9e6b64ed19fa7ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1673dd088207e7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd446a7e394a1a26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed72916d8a852b52",
+        "type": "tabs",
+        "dimension": 24.469160768452983,
+        "children": [
+          {
+            "id": "9fd7f7423a5549a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "850bb36ca5faf596",
+    "type": "split",
+    "children": [
+      {
+        "id": "41414737f0cc552d",
+        "type": "tabs",
+        "dimension": 64.43798449612403,
+        "children": [
+          {
+            "id": "d4d317eef34927af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/ARCH Linux Installation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ARCH Linux Installation"
+            }
+          },
+          {
+            "id": "bcaba25c2d0a4927",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/ARCH Linux Installation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ARCH Linux Installation"
+            }
+          },
+          {
+            "id": "9550eeff6b4f9e67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d769143ca14198b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/ARCH Linux Installation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ARCH Linux Installation"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0416b758047450a9",
+        "type": "tabs",
+        "dimension": 35.56201550387597,
+        "children": [
+          {
+            "id": "ae45d7b0d8459625",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "d9e6b64ed19fa7ff",
+  "lastOpenFiles": [
+    "obsidian/README.md",
+    "obsidian",
+    "desktop.ini",
+    "Input/Videos/How to Install Arch Linux Step-by-Step Guide.md",
+    "Inbox/Prepare the hard-drive for Linux.md",
+    "Zettelkasten/UEFI Firmware.md",
+    "Inbox/LVM (Logical Volume Manager).md",
+    "Inbox/Linux.md",
+    "Inbox/Kernel.md",
+    "Inbox/format the partitions.md",
+    "Zettelkasten/Mount Flash Drive.md",
+    "Input/How to/Create partition for LVM.md",
+    "Inbox/ARCH Linux Installation.md",
+    "Zettelkasten/GRUB (GNU GRand Unified Bootloader).md",
+    "Zettelkasten/FDISK.md",
+    "Zettelkasten/EFI System partition (ESP).md",
+    "Input/How to/Download Arch Linux.md",
+    "Zettelkasten/Disable Secure boot.md",
+    "Zettelkasten/Daemon iwd.md",
+    "Zettelkasten/Daemon.md",
+    "Input/How to/Create password for user in Linux.md",
+    "Input/How to/Create partitions on Linux.md",
+    "Zettelkasten/Bootloader.md",
+    "Zettelkasten/Boot partition.md",
+    "Input/How to/Activate WI-FI in terminal (IWCTL).md",
+    "Inbox/LVM.md",
+    "Journal/2025-07-16.md",
+    "Journal/2025-07-15.md",
+    "Input/Videos/desktop.ini",
+    "Input/Podcast/desktop.ini",
+    "Input/How to",
+    "Input/Courses",
+    "Input/Videos",
+    "Input/Podcast",
+    "Input/Articles",
+    "Output/desktop.ini"
+  ]
+}

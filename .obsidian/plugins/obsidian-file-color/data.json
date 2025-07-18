@@ -1,0 +1,53 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "rtqVEoHO6fpIRCH1_T24n",
+      "name": "red",
+      "value": "#dd4040"
+    },
+    {
+      "id": "JGnC2_rhljY0kbYzKGW94",
+      "name": "pur",
+      "value": "#5426c0"
+    },
+    {
+      "id": "pUEItyuxBdBXs3Bl9MkfL",
+      "name": "teal",
+      "value": "#3fc1ca"
+    },
+    {
+      "id": "8QQ6vIXQouo9ics4z53Yr",
+      "name": "yellow",
+      "value": "#ede587"
+    },
+    {
+      "id": "Q4tIE6z2UmMY1p3_c6qv9",
+      "name": "green",
+      "value": "#83a720"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Inbox",
+      "color": "pUEItyuxBdBXs3Bl9MkfL"
+    },
+    {
+      "path": "Input",
+      "color": "8QQ6vIXQouo9ics4z53Yr"
+    },
+    {
+      "path": "Journal",
+      "color": "Q4tIE6z2UmMY1p3_c6qv9"
+    },
+    {
+      "path": "Output",
+      "color": "rtqVEoHO6fpIRCH1_T24n"
+    },
+    {
+      "path": "Zettelkasten",
+      "color": "JGnC2_rhljY0kbYzKGW94"
+    }
+  ]
+}

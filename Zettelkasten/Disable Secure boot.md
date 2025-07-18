@@ -1,0 +1,1 @@
+You need to enter the bios and deactivate it, sometimes could be tricky so you maybe need to search directly on Google what is the process for the machine that you are working on
