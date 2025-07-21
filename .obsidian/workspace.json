@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/How to/Activate logical volume.md",
+                "file": "Inbox/Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activate logical volume"
+              "title": "Kernel"
             }
           },
           {
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/How to/Activate logical volume.md",
+                "file": "Inbox/Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Activate logical volume"
+              "title": "Backlinks for Kernel"
             }
           },
           {
@@ -202,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/How to/Activate logical volume.md",
+                "file": "Inbox/Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Activate logical volume"
+              "title": "Outgoing links from Kernel"
             }
           },
           {
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/How to/Activate logical volume.md",
+                "file": "Inbox/Kernel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Activate logical volume"
+              "title": "Outline of Kernel"
             }
           },
           {
@@ -285,11 +285,19 @@
       "markdown-importer:Open format converter": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "b98a7d2271f0155b",
   "lastOpenFiles": [
+    "Inbox/Linux.md",
+    "Inbox/LVM (Logical Volume Manager).md",
+    "Inbox/ARCH Linux Installation.md",
+    "Inbox/Format and Mount LVM Partitions.md",
+    "Zettelkasten/Volume Group.md",
+    "Zettelkasten/vgscan.md",
+    "Input/How to/Activate logical volume.md",
     "Excalidraw/Drawing 2025-07-20 20.46.41.excalidraw.md",
     "Excalidraw/desktop.ini",
     "Zettelkasten/vgchange.md",
@@ -297,26 +305,20 @@
     "Inbox/Drawing 2025-07-20 20.46.11.excalidraw.md",
     "Excalidraw",
     "Input/How to/Search available volume groups.md",
-    "Inbox/LVM (Logical Volume Manager).md",
     "Zettelkasten/pvcreate.md",
     "Input/How to/Prepare LVM Partitions.md",
     "Zettelkasten/modprobe.md",
     "Zettelkasten/Logical Volumes.md",
-    "Inbox/Linux.md",
     "Inbox/Kernel.md",
     "Input/How to/Insert kernel module.md",
     "Input/How to/Initialize partition for LVM.md",
-    "Inbox/Format and Mount LVM Partitions.md",
     "Input/How to/Create volume group for LVM.md",
     "Inbox/create volume group.md",
     "Input/How to/Create logical volumes for ARCH Linux Installation.md",
-    "Input/How to/Activate logical volume.md",
     "Input/How to/Activate Volume Groups.md",
     "Zettelkasten/mkfs.ext4.md",
-    "Inbox/ARCH Linux Installation.md",
-    "Inbox/vgscan.md",
     "Zettelkasten/lvcreate.md",
-    "Inbox/vgcreate.md",
+    "Zettelkasten/vgcreate.md",
     "obsidian",
     "desktop.ini",
     "Input/Videos/desktop.ini",
