@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "2ec7717ea1c1540c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/vgchange.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vgchange"
-            }
-          },
-          {
             "id": "d3bb1e46916fc17d",
             "type": "leaf",
             "state": {
@@ -105,8 +91,7 @@
               "title": "LVM (Logical Volume Manager)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/vgchange.md",
+                "file": "Input/How to/Activate logical volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vgchange"
+              "title": "Backlinks for Activate logical volume"
             }
           },
           {
@@ -217,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/vgchange.md",
+                "file": "Input/How to/Activate logical volume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from vgchange"
+              "title": "Outgoing links from Activate logical volume"
             }
           },
           {
@@ -246,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/vgchange.md",
+                "file": "Input/How to/Activate logical volume.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vgchange"
+              "title": "Outline of Activate logical volume"
             }
           },
           {
@@ -303,8 +288,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d9e6b64ed19fa7ff",
+  "active": "b98a7d2271f0155b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-20 20.46.41.excalidraw.md",
+    "Excalidraw/desktop.ini",
+    "Zettelkasten/vgchange.md",
+    "Excalidraw/Drawing 2025-07-20 20.46.39.excalidraw.md",
+    "Inbox/Drawing 2025-07-20 20.46.11.excalidraw.md",
+    "Excalidraw",
     "Input/How to/Search available volume groups.md",
     "Inbox/LVM (Logical Volume Manager).md",
     "Zettelkasten/pvcreate.md",
@@ -323,14 +314,9 @@
     "Input/How to/Activate Volume Groups.md",
     "Zettelkasten/mkfs.ext4.md",
     "Inbox/ARCH Linux Installation.md",
-    "Zettelkasten/vgchange.md",
     "Inbox/vgscan.md",
     "Zettelkasten/lvcreate.md",
     "Inbox/vgcreate.md",
-    "Inbox/Volume Group.md",
-    "Input/Videos/Become a DevOps Engineer in 2025 Six-Figure Roadmap.md",
-    "Input/Courses/From zero to a full Kubernetes environment including apps and monitoring.md",
-    "Input/Videos/Kubernetes Homelab Full Project from Python Code to Container on K8s.md",
     "obsidian",
     "desktop.ini",
     "Input/Videos/desktop.ini",
@@ -338,8 +324,6 @@
     "Input/How to",
     "Input/Courses",
     "Input/Videos",
-    "Input/Podcast",
-    "Input/Articles",
-    "Output/desktop.ini"
+    "Input/Podcast"
   ]
 }

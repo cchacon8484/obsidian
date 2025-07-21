@@ -12,7 +12,8 @@
   "knownTags": {
     "linux": 1,
     "howTo": 2,
-    "consume": 3
+    "consume": 3,
+    "excalidraw": 4
   },
   "_version": 3
 }
