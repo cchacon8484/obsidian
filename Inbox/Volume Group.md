@@ -1,0 +1,2 @@
+#linux 
+A volume group is the collection of physical volumes specially use for [[LVM (Logical Volume Manager)]] is used as the unified pool of storage create by one or more physical devices or partitions allowing to be more flexible in size 

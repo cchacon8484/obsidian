@@ -13,12 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/How to/Prepare the hard-drive for Linux.md",
+                "file": "Inbox/Format and Mount LVM Partitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prepare the hard-drive for Linux"
+              "title": "Format and Mount LVM Partitions"
+            }
+          },
+          {
+            "id": "d3bb1e46916fc17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Initialize partition for LVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initialize partition for LVM"
+            }
+          },
+          {
+            "id": "f9e0a344f02507be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/vgchange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vgchange"
+            }
+          },
+          {
+            "id": "1e3eb19064de1483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/modprobe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "modprobe"
+            }
+          },
+          {
+            "id": "2d9f9e857f8f3d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/create volume group.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "create volume group"
+            }
+          },
+          {
+            "id": "7711e78c4ecbeb72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/pvcreate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pvcreate"
+            }
+          },
+          {
+            "id": "6e9683924b9c0105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/LVM (Logical Volume Manager).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LVM (Logical Volume Manager)"
             }
           }
         ]
@@ -113,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/How to/Prepare the hard-drive for Linux.md",
+                "file": "Inbox/Format and Mount LVM Partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prepare the hard-drive for Linux"
+              "title": "Backlinks for Format and Mount LVM Partitions"
             }
           },
           {
@@ -132,12 +216,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/How to/Prepare the hard-drive for Linux.md",
+                "file": "Inbox/Format and Mount LVM Partitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prepare the hard-drive for Linux"
+              "title": "Outgoing links from Format and Mount LVM Partitions"
             }
           },
           {
@@ -161,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/How to/Prepare the hard-drive for Linux.md",
+                "file": "Inbox/Format and Mount LVM Partitions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prepare the hard-drive for Linux"
+              "title": "Outline of Format and Mount LVM Partitions"
             }
           }
         ]
@@ -205,36 +289,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d9e6b64ed19fa7ff",
+  "active": "b98a7d2271f0155b",
   "lastOpenFiles": [
-    "Inbox/Prepare LVM.md",
-    "Input/How to/Open the encrypt partition.md",
-    "Inbox/LVM (Logical Volume Manager).md",
-    "Zettelkasten/mkfs.fat.md",
     "Zettelkasten/mkfs.ext4.md",
-    "Zettelkasten/LUKS (Linux Unified Key Setup).md",
-    "Inbox/Linux.md",
-    "Inbox/Kernel.md",
-    "Input/How to/Format the partitions for Linux installation.md",
-    "Zettelkasten/FAT (File Allocation Table ).md",
-    "Input/How to/Encrypt Partition.md",
-    "Inbox/Encrypt partitions.md",
-    "Zettelkasten/dm-crypt.md",
-    "Zettelkasten/Cryptsetup.md",
+    "Inbox/Format and Mount LVM Partitions.md",
     "Inbox/ARCH Linux Installation.md",
+    "Inbox/Prepare LVM Partitions.md",
+    "Inbox/Initialize partition for LVM.md",
+    "Inbox/Activate  Volume Groups.md",
+    "Inbox/Insert kernel module.md",
+    "Inbox/Search available volume groups.md",
+    "Inbox/Activate logical volume.md",
+    "Inbox/Create logical volumes for ARCH Linux Installation.md",
+    "Inbox/Create volume group for LVM.md",
+    "Inbox/vgchange.md",
+    "Inbox/vgscan.md",
+    "Inbox/modprobe.md",
+    "Inbox/lvcreate.md",
+    "Inbox/pvcreate.md",
+    "Inbox/Logical Volumes.md",
+    "Inbox/vgcreate.md",
+    "Inbox/Volume Group.md",
+    "Inbox/create volume group.md",
+    "Inbox/LVM (Logical Volume Manager).md",
+    "Input/Videos/Become a DevOps Engineer in 2025 Six-Figure Roadmap.md",
+    "Input/Courses/From zero to a full Kubernetes environment including apps and monitoring.md",
+    "Input/Videos/Kubernetes Homelab Full Project from Python Code to Container on K8s.md",
+    "Input/Courses/DevSecOps Fundamentals.md",
     "Input/How to/Prepare the hard-drive for Linux.md",
-    "obsidian/README.md",
     "obsidian",
     "desktop.ini",
-    "Input/Videos/How to Install Arch Linux Step-by-Step Guide.md",
-    "Zettelkasten/UEFI Firmware.md",
-    "Zettelkasten/Mount Flash Drive.md",
-    "Input/How to/Create partition for LVM.md",
-    "Zettelkasten/GRUB (GNU GRand Unified Bootloader).md",
-    "Zettelkasten/FDISK.md",
-    "Zettelkasten/EFI System partition (ESP).md",
-    "Input/How to/Download Arch Linux.md",
-    "Zettelkasten/Disable Secure boot.md",
     "Input/Videos/desktop.ini",
     "Input/Podcast/desktop.ini",
     "Input/How to",

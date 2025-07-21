@@ -11,7 +11,8 @@
   },
   "knownTags": {
     "linux": 1,
-    "howTo": 2
+    "howTo": 2,
+    "consume": 3
   },
   "_version": 3
 }
