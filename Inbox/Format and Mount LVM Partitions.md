@@ -1,0 +1,1 @@
+We are going to focus in lv_root and lv_home 
