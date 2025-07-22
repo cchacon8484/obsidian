@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Create user accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Create user accounts"
             }
           },
           {
@@ -131,11 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Create user accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Create user accounts"
             }
           },
           {
@@ -159,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Inbox/Create user accounts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Create user accounts"
             }
           },
           {
@@ -216,13 +219,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7dc7a56bc638e7ac",
+  "active": "b53f7369307f04e6",
   "lastOpenFiles": [
-    "Inbox/Linux.md",
-    "Inbox/Enter current ARCH Linux installation.md",
     "Inbox/Install ARCH Linux.md",
-    "Input/How to/Generate fstab file.md",
+    "Inbox/Enter current ARCH Linux installation.md",
     "Inbox/Create user accounts.md",
+    "Inbox/Linux.md",
+    "Input/How to/Generate fstab file.md",
     "Inbox/Linux Arch.md",
     "Zettelkasten/pacstrap.md",
     "Zettelkasten/genfstab.md",
