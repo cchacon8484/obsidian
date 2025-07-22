@@ -1,0 +1,1 @@
+After [[Install base ARCH Linux package]] you need to generate an [[fstab file]] for this we're going to use [[genfstab]]

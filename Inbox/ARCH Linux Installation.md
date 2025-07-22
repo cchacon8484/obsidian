@@ -15,4 +15,5 @@ Steps
  7. [[Prepare the hard-drive for Linux]]
  8. [[Prepare LVM Partitions]] 
  9. [[Format and Mount LVM Partitions]]
- 10. [[Install base ARCH Linux package]]
+10. [[Install base ARCH Linux package]]
+11. [[Generate fstab file]] 
