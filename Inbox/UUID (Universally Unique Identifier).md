@@ -1,0 +1,1 @@
+UUID is a 128-bit value used to uniquiy identify information. Without central authority making useful for distribuited system
