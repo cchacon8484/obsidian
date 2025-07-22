@@ -1,3 +1,4 @@
+#linux 
 lvcreate creates a logical volume in an already existing volume group 
 manual: https://linux.die.net/man/8/lvcreate
 ```console

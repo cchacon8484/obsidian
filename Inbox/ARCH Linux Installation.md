@@ -15,4 +15,4 @@ Steps
  7. [[Prepare the hard-drive for Linux]]
  8. [[Prepare LVM Partitions]] 
  9. [[Format and Mount LVM Partitions]]
- - 
+ 10. [[Prepare ARCH Linux Environment]]

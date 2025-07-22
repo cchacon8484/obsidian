@@ -8,4 +8,19 @@ mkfs.ext4 /dev/volgroup0/lv_root
 ```console
 mkfs.ext4 /dev/volgroup0/lv_home
 ```
-3. [[Mount partition]] 
+3. First we need to use the command [[mkdir]] to create our boot directory
+```console
+mkdir /mnt/boot
+```
+4. Then we're going to mount our lv_root in the created directory with the command [[mount]] 
+```console
+mount /dev/nvme0n1p2 /mnt/boot
+```
+5. Now we're going to create the home directory
+```console
+mkdir /mnt/home
+```
+6. And finally we're going to mount lv_home with [[mount]]
+```console
+mount /dev/volgroup0/lv_home /mnt/home
+```

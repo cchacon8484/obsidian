@@ -1,3 +1,4 @@
+#linux 
 vgchange changes atributes of a volume group 
 manual: https://linux.die.net/man/8/vgchange
 
