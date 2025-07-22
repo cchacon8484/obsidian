@@ -1,3 +1,4 @@
+#linux 
 The fstab file is used to define how the partitions, other block devices or remote files should be mounted in the file system 
 Example of a fstab file 
 
