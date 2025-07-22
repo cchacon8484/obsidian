@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d2f05dc58960802",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "b53f7369307f04e6",
             "type": "leaf",
             "state": {
@@ -226,7 +216,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4d2f05dc58960802",
+  "active": "7dc7a56bc638e7ac",
   "lastOpenFiles": [
     "Inbox/Linux.md",
     "Inbox/Enter current ARCH Linux installation.md",
