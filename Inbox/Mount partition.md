@@ -1,0 +1,1 @@
+To mount a partition in [[Linux]] we need to use the command [[mount]] 
