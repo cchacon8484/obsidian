@@ -1,0 +1,1 @@
+A lightweight [[Linux]] distribution where you got total control over the installation and packages.

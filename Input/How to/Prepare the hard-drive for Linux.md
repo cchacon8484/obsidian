@@ -1,6 +1,6 @@
 #linux 
 We need to prepare three partitions for boot partition, [[LVM (Logical Volume Manager)]], and one for the Linux system. 
-Steps to prepare the hard drive for the [[ARCH Linux Installation]]
+Steps to prepare the hard drive for the [[Install ARCH Linux]]
 1. We need to create three partitions for Linux, we can follow the guide [[Create partitions on Linux]] to accomplish this
 2. Create the first partition with 1 GB for [[EFI System partition (ESP)]] 
 3. Create the second partition with 1 GB for the [[Boot partition]] 

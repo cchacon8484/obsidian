@@ -1,5 +1,5 @@
-To create logical volumes for [[ARCH Linux Installation]] we need to use [[lvcreate]]
-for the first volume we are going to assign 30gb for the [[ARCH Linux Installation]]
+To create logical volumes for [[Install ARCH Linux]] we need to use [[lvcreate]]
+for the first volume we are going to assign 30gb for the [[Install ARCH Linux]]
 
 ```console
 lvcreate -L 30GB volgroup0 -n lv_root

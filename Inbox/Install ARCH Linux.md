@@ -1,9 +1,6 @@
 #linux #howTo
-### Linux Arch 
-A lightweight [[Linux]] distribution where you got total control over the installation and packages.
-
+### [[Linux Arch]] 
 I really like the process of installation, help me to understand a bit more about the Linux ecosystem and the process that the installation takes. 
-
 
 Steps
  1. [[Download Arch Linux]]
@@ -16,4 +13,6 @@ Steps
  8. [[Prepare LVM Partitions]] 
  9. [[Format and Mount LVM Partitions]]
 10. [[Install base ARCH Linux package]]
-11. [[Generate fstab file]] 
+11. [[Generate fstab file]]  
+12. [[Enter current ARCH Linux installation]]
+13. [[Create user accounts]]
